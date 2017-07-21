@@ -6,15 +6,14 @@ It controls a [Grove OLED Display](http://wiki.seeedstudio.com/wiki/Grove_-_OLED
 
  1. setup
 
-    ```
-    # settings
+    > The polyfills has been included into `./Js/`.
+    > So, it unnecessary the following procedure.
 
-    npm i -g bower
+    ~~# settings~~    
+    ~~npm i -g bower~~    
 
-    # polyfill install
-
-    bower install
-    ```
+    ~~# polyfill install~~    
+    ~~bower install~~    
 
   Please see also: https://github.com/club-wot/WebGPIO
 

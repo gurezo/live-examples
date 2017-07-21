@@ -6,15 +6,15 @@ It reads a gesture sensor (PAJ7620U2) ([Grove Gesture v1](http://wiki.seeedstudi
 
  1. setup
 
-    ```
-    # settings
+    > The polyfills has been included into `./Js/`.
+    > So, it unnecessary the following procedure.
 
-    npm i -g bower
+    ~~# settings~~    
+    ~~npm i -g bower~~    
 
-    # polyfill install
+    ~~# polyfill install~~    
+    ~~bower install~~    
 
-    bower install
-    ```
 
   Please see also: https://github.com/club-wot/WebGPIO
 
